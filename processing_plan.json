@@ -1,0 +1,29 @@
+{
+  "localData": {
+    "total": 669,
+    "uniqueIds": 669,
+    "idRange": "R22001 - R22672"
+  },
+  "feishuTable": {
+    "currentTotal": 502,
+    "appToken": "O7WjbMQEaaWGTlsnvNMcoWkXnde",
+    "tableId": "tblIqk2EUj832N2p"
+  },
+  "knownMissingIds": [
+    "R22110",
+    "R22373",
+    "R22393"
+  ],
+  "estimated": {
+    "duplicates": 151,
+    "toImport": 318,
+    "finalCount": 669
+  },
+  "steps": [
+    "1. 获取飞书表格所有502条记录",
+    "2. 按候选人ID分组，识别重复",
+    "3. 对每个重复组，保留更新日期最新的记录",
+    "4. 删除其他重复记录",
+    "5. 从本地数据导入缺失的记录"
+  ]
+}

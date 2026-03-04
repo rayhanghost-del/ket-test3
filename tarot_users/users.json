@@ -1,0 +1,8 @@
+{
+  "system_config": {
+    "free_limit": 3,
+    "bonus_unlimited": true,
+    "version": "1.0"
+  },
+  "users": {}
+}

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "flight-search": {
+      "version": "0.1.7",
+      "installedAt": 1772476983834
+    },
+    "flight-tracker": {
+      "version": "1.1.0",
+      "installedAt": 1772477170390
+    }
+  }
+}

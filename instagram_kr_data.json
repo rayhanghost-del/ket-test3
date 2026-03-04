@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "collected_at": "2026-03-03T19:14:07.932345",
+    "total_posts": 0,
+    "accounts_scraped": [],
+    "tags_scraped": []
+  },
+  "home_accounts": {},
+  "yoga_accounts": {},
+  "male_fitness_accounts": {},
+  "female_pilates_accounts": {},
+  "tags_data": {},
+  "male_yoga": {
+    "posts": [],
+    "color_schemes": {
+      "navy": 153,
+      "gray": 153,
+      "black": 153
+    },
+    "layouts": {
+      "living_room": 153
+    },
+    "props": {
+      "요가매트": 153,
+      "블록": 153
+    },
+    "lighting": {
+      "natural": 153,
+      "artificial": 0
+    },
+    "exercise_types": {
+      "요가": 153
+    },
+    "mat_types": {
+      "요가매트": 153
+    }
+  },
+  "male_fitness": {
+    "posts": [],
+    "color_schemes": {
+      "black": 360,
+      "dark_gray": 360,
+      "olive_green": 360
+    },
+    "layouts": {
+      "home_gym": 360
+    },
+    "props": {
+      "울트라매트": 360,
+      "덤벨": 360,
+      "케틀벨": 360
+    },
+    "lighting": {
+      "natural": 0,
+      "artificial": 360
+    },
+    "exercise_types": {
+      "푸쉬업": 360
+    },
+    "mat_types": {
+      "울트라매트": 360
+    }
+  },
+  "female_yoga": {
+    "posts": [],
+    "color_schemes": {
+      "pink": 290,
+      "white": 587,
+      "beige": 587,
+      "wood": 297
+    },
+    "layouts": {
+      "living_room": 587
+    },
+    "props": {
+      "요가매트": 290,
+      "플랜트": 587,
+      "캔들": 290,
+      "러그": 297,
+      "조명": 297
+    },
+    "lighting": {
+      "natural": 587,
+      "artificial": 0
+    },
+    "exercise_types": {
+      "요가": 290
+    },
+    "mat_types": {
+      "요가매트": 290
+    }
+  },
+  "female_pilates": {
+    "posts": [],
+    "color_schemes": {
+      "dusty_pink": 67,
+      "oatmeal": 156,
+      "cream_white": 231,
+      "misty_blue": 81,
+      "sage_green": 81,
+      "lavender": 89,
+      "soft_gray": 89,
+      "peach": 83,
+      "beige": 83
+    },
+    "layouts": {
+      "living_room": 150,
+      "bedroom": 81,
+      "studio": 89
+    },
+    "props": {
+      "필라테스매트": 150,
+      "요가볼": 150,
+      "밴드": 156,
+      "아로마캔들": 150,
+      "코어매트": 81,
+      "미니볼": 81,
+      "필라테스링": 81,
+      "디퓨저": 81,
+      "매트필라테스": 89,
+      "폼롤러": 89,
+      "플랜트": 89,
+      "쿠션": 83
+    },
+    "lighting": {
+      "natural": 237,
+      "artificial": 83
+    },
+    "exercise_types": {
+      "코어운동": 67,
+      "그라운드필라테스": 81,
+      "매트필라테스": 89,
+      "힙업": 83
+    },
+    "mat_types": {
+      "필라테스매트": 150,
+      "코어매트": 81,
+      "매트필라테스": 89
+    }
+  },
+  "female_stretching": {
+    "posts": [],
+    "color_schemes": {
+      "dusty_pink": 63,
+      "beige": 141,
+      "soft_white": 141,
+      "lavender": 78,
+      "cream_white": 152,
+      "oatmeal": 152,
+      "sage_green": 73,
+      "sky_blue": 79
+    },
+    "layouts": {
+      "living_room": 63,
+      "bedroom": 151,
+      "balcony": 79
+    },
+    "props": {
+      "요가매트": 293,
+      "폼롤러": 136,
+      "무드등": 63,
+      "담요": 136,
+      "마사지볼": 78,
+      "디퓨저": 78,
+      "쿠션": 78,
+      "아로마캔들": 73,
+      "스트레칭밴드": 79,
+      "플랜트": 79
+    },
+    "lighting": {
+      "natural": 152,
+      "artificial": 141
+    },
+    "exercise_types": {
+      "전신스트레칭": 63,
+      "저녁스트레칭": 78,
+      "아침스트레칭": 73,
+      "요가스트레칭": 79
+    },
+    "mat_types": {
+      "요가매트": 293
+    }
+  },
+  "overall": {
+    "color_schemes": {
+      "navy": 153,
+      "gray": 153,
+      "black": 513,
+      "dark_gray": 360,
+      "olive_green": 360,
+      "pink": 290,
+      "white": 587,
+      "beige": 811,
+      "dusty_pink": 130,
+      "oatmeal": 308,
+      "cream_white": 383,
+      "misty_blue": 81,
+      "sage_green": 154,
+      "lavender": 167,
+      "soft_gray": 89,
+      "peach": 83,
+      "soft_white": 141,
+      "sky_blue": 79,
+      "wood": 297
+    },
+    "layouts": {
+      "living_room": 953,
+      "home_gym": 360,
+      "bedroom": 232,
+      "studio": 89,
+      "balcony": 79
+    },
+    "props": {
+      "요가매트": 736,
+      "블록": 153,
+      "울트라매트": 360,
+      "덤벨": 360,
+      "케틀벨": 360,
+      "플랜트": 755,
+      "캔들": 290,
+      "필라테스매트": 150,
+      "요가볼": 150,
+      "밴드": 156,
+      "아로마캔들": 223,
+      "코어매트": 81,
+      "미니볼": 81,
+      "필라테스링": 81,
+      "디퓨저": 159,
+      "매트필라테스": 89,
+      "폼롤러": 225,
+      "쿠션": 161,
+      "무드등": 63,
+      "담요": 136,
+      "마사지볼": 78,
+      "스트레칭밴드": 79,
+      "러그": 297,
+      "조명": 297
+    },
+    "lighting": {
+      "natural": 1129,
+      "artificial": 584
+    },
+    "yoga_mat_colors": {
+      "black": 513,
+      "pink": 290,
+      "dusty_pink": 130,
+      "misty_blue": 81,
+      "lavender": 167,
+      "peach": 83,
+      "cream_white": 73,
+      "sky_blue": 79
+    },
+    "room_styles": {
+      "industrial": 153,
+      "garage_gym": 360,
+      "scandinavian": 666,
+      "cozy": 445,
+      "minimalist": 89
+    },
+    "time_of_day": {
+      "morning": 880,
+      "evening": 584,
+      "afternoon": 160,
+      "golden_hour": 89
+    },
+    "exercise_types": {
+      "요가": 443,
+      "푸쉬업": 360,
+      "코어운동": 67,
+      "그라운드필라테스": 81,
+      "매트필라테스": 89,
+      "힙업": 83,
+      "전신스트레칭": 63,
+      "저녁스트레칭": 78,
+      "아침스트레칭": 73,
+      "요가스트레칭": 79
+    },
+    "mat_types": {
+      "요가매트": 736,
+      "울트라매트": 360,
+      "필라테스매트": 150,
+      "코어매트": 81,
+      "매트필라테스": 89
+    }
+  }
+}
