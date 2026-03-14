@@ -8,6 +8,26 @@
     "flight-tracker": {
       "version": "1.1.0",
       "installedAt": 1772477170390
+    },
+    "self-improving-agent": {
+      "version": "3.0.1",
+      "installedAt": 1773255852297
+    },
+    "xiaohongshu-downloader": {
+      "version": "1.0.0",
+      "installedAt": 1773309117561
+    },
+    "douyin-downloader": {
+      "version": "1.0.0",
+      "installedAt": 1773309130735
+    },
+    "douyin-transcribe-skill": {
+      "version": "1.1.0",
+      "installedAt": 1773309136082
+    },
+    "url-reader": {
+      "version": "0.1.1",
+      "installedAt": 1773309142067
     }
   }
 }
