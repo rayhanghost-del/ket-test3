@@ -1,0 +1,331 @@
+{
+  "testName": "KET Test 4",
+  "reading": {
+    "part2": {
+      "title": "Future stars of classical music",
+      "questions": "7-13",
+      "instruction": "For each question, choose the correct answer.",
+      "people": [
+        {
+          "name": "Eugenia",
+          "description": "My mother and father both play the violin in an orchestra, so that's what they began teaching me to play, even before I went to school. Now I've finished university and I'm a member of the same orchestra. I believe it's important for everyone to go to see music being played. Tickets are expensive, but it's a much better experience than just listening to recorded music. Over the years, I've won a few violin competitions and I love making music with my friends."
+        },
+        {
+          "name": "Laura",
+          "description": "When I was a child, my father had a café and the only music there, and in our house, was jazz on the radio. But when I was 12, I went on a school trip and heard classical guitar for the first time. I loved it, and my mother bought me a guitar and paid for lessons. My parents couldn't believe it when I came first in a national guitar competition. I've left university now, but I'm still learning new things every day. There's so much information online."
+        },
+        {
+          "name": "Ellie",
+          "description": "I'm now playing in my university orchestra and taking classes there in writing music, which is what I want to do as a career. I love using the internet to discuss things I'm working on with other musicians. I was lucky to be able to have classical violin lessons at school and, by the time I was eight, I was in the children's orchestra and playing in local competitions. In my opinion, more schools should offer music lessons. Music is so important."
+        }
+      ],
+      "questions": [
+        {
+          "number": 7,
+          "text": "Who thinks not enough music is taught in schools?",
+          "options": {
+            "A": "Eugenia",
+            "B": "Laura",
+            "C": "Ellie"
+          }
+        },
+        {
+          "number": 8,
+          "text": "Who grew up in a home without much classical music?",
+          "options": {
+            "A": "Eugenia",
+            "B": "Laura",
+            "C": "Ellie"
+          }
+        },
+        {
+          "number": 9,
+          "text": "Who likes to share ideas about music with people online?",
+          "options": {
+            "A": "Eugenia",
+            "B": "Laura",
+            "C": "Ellie"
+          }
+        },
+        {
+          "number": 10,
+          "text": "Who says she thinks people should go to concerts?",
+          "options": {
+            "A": "Eugenia",
+            "B": "Laura",
+            "C": "Ellie"
+          }
+        },
+        {
+          "number": 11,
+          "text": "Who started learning to play an instrument after she was given one?",
+          "options": {
+            "A": "Eugenia",
+            "B": "Laura",
+            "C": "Ellie"
+          }
+        },
+        {
+          "number": 12,
+          "text": "Who is now studying music at university?",
+          "options": {
+            "A": "Eugenia",
+            "B": "Laura",
+            "C": "Ellie"
+          }
+        },
+        {
+          "number": 13,
+          "text": "Who says her parents were surprised when she won a competition?",
+          "options": {
+            "A": "Eugenia",
+            "B": "Laura",
+            "C": "Ellie"
+          }
+        }
+      ]
+    }
+  },
+  "listening": {
+    "part1": {
+      "questions": "1-5",
+      "instruction": "For each question, choose the correct answer.",
+      "note": "Audio content not available in images",
+      "questions": [
+        {
+          "number": 1,
+          "answer": "A"
+        },
+        {
+          "number": 2,
+          "answer": "A"
+        },
+        {
+          "number": 3,
+          "answer": "C"
+        },
+        {
+          "number": 4,
+          "answer": "B"
+        },
+        {
+          "number": 5,
+          "answer": "C"
+        }
+      ]
+    },
+    "part2": {
+      "title": "Langate Animal Park",
+      "questions": "6-10",
+      "instruction": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time.",
+      "context": "You will hear a coach driver telling tourists about their visit to an animal park.",
+      "questions": [
+        {
+          "number": 6,
+          "question": "Type of animal Langate is famous for:",
+          "answer": "monkey(s)",
+          "type": "word"
+        },
+        {
+          "number": 7,
+          "question": "Good place to take photos:",
+          "answer": "river",
+          "type": "word"
+        },
+        {
+          "number": 8,
+          "question": "Start time of guide's talk:",
+          "answer": "10.15",
+          "type": "time",
+          "unit": "a.m."
+        },
+        {
+          "number": 9,
+          "question": "Cost of lunch:",
+          "answer": "8.99",
+          "type": "price",
+          "unit": "£"
+        },
+        {
+          "number": 10,
+          "question": "Wait for coach at entrance called:",
+          "answer": "Chepstow",
+          "type": "word"
+        }
+      ]
+    },
+    "part3": {
+      "questions": "11-15",
+      "instruction": "For each question, choose the correct answer.",
+      "context": "You will hear two friends, Sophie and John, talking about planning a picnic that they have every year with neighbours.",
+      "questions": [
+        {
+          "number": 11,
+          "question": "What does Sophie like most about the picnic?",
+          "options": {
+            "A": "eating great food",
+            "B": "spending time outdoors",
+            "C": "becoming better friends with people"
+          },
+          "answer": "C"
+        },
+        {
+          "number": 12,
+          "question": "Where is the picnic going to be this year?",
+          "options": {
+            "A": "a park",
+            "B": "a lake",
+            "C": "a garden"
+          },
+          "answer": "A"
+        },
+        {
+          "number": 13,
+          "question": "What happened at last year's picnic?",
+          "options": {
+            "A": "The weather wasn't very good.",
+            "B": "Some people didn't enjoy themselves.",
+            "C": "Some people didn't know where to go."
+          },
+          "answer": "C"
+        },
+        {
+          "number": 14,
+          "question": "What does Sophie want guests to bring?",
+          "options": {
+            "A": "something to do",
+            "B": "something to eat with",
+            "C": "something to barbecue"
+          },
+          "answer": "A"
+        },
+        {
+          "number": 15,
+          "question": "Which job does John say he'll do?",
+          "options": {
+            "A": "speak to people",
+            "B": "put signs in the area",
+            "C": "send a group email"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    "part4": {
+      "questions": "16-20",
+      "instruction": "For each question, choose the correct answer.",
+      "questions": [
+        {
+          "number": 16,
+          "context": "You will hear a woman giving a talk.",
+          "question": "What's the woman's job?",
+          "options": {
+            "A": "engineer",
+            "B": "farmer",
+            "C": "painter"
+          },
+          "answer": "A"
+        },
+        {
+          "number": 17,
+          "context": "You will hear a man talking to his sister about a new friend.",
+          "question": "Where did the man meet his new friend?",
+          "options": {
+            "A": "at work",
+            "B": "at a party",
+            "C": "at a sports match"
+          },
+          "answer": "A"
+        },
+        {
+          "number": 18,
+          "context": "You will hear a husband and wife talking about going to the cinema.",
+          "question": "Why do they decide to walk to the cinema?",
+          "options": {
+            "A": "There are no buses today.",
+            "B": "They want some exercise.",
+            "C": "The car isn't working."
+          },
+          "answer": "B"
+        },
+        {
+          "number": 19,
+          "context": "You will hear a man telling a woman about his holiday.",
+          "question": "What problem did he have on the holiday?",
+          "options": {
+            "A": "The weather was bad.",
+            "B": "The beach was dirty.",
+            "C": "The hotel was noisy."
+          },
+          "answer": "C"
+        },
+        {
+          "number": 20,
+          "context": "You will hear a girl talking with her dad about learning a new language.",
+          "question": "What did the girl like about her first Chinese lesson?",
+          "options": {
+            "A": "the other students",
+            "B": "the teacher",
+            "C": "the length of the lesson"
+          },
+          "answer": "B"
+        }
+      ]
+    },
+    "part5": {
+      "questions": "21-25",
+      "instruction": "For each question, choose the correct answer.",
+      "context": "You will hear two friends talking about a party on the beach. What will each person bring to the party?",
+      "example": {
+        "person": "Ben",
+        "answer": "C"
+      },
+      "options": {
+        "A": "beach umbrella",
+        "B": "blanket",
+        "C": "football",
+        "D": "games",
+        "E": "photos",
+        "F": "picnic",
+        "G": "sunglasses",
+        "H": "towels"
+      },
+      "questions": [
+        {
+          "number": 21,
+          "person": "Katy",
+          "answer": "B"
+        },
+        {
+          "number": 22,
+          "person": "Jacob",
+          "answer": "G"
+        },
+        {
+          "number": 23,
+          "person": "Suzana",
+          "answer": "E"
+        },
+        {
+          "number": 24,
+          "person": "Martin",
+          "answer": "F"
+        },
+        {
+          "number": 25,
+          "person": "Carla",
+          "answer": "D"
+        }
+      ]
+    }
+  },
+  "answerKey": {
+    "listening": {
+      "part1": ["A", "A", "C", "B", "C"],
+      "part2": ["monkey(s)", "river", "10.15", "8.99", "Chepstow"],
+      "part3": ["C", "A", "C", "A", "B"],
+      "part4": ["A", "A", "B", "C", "B"],
+      "part5": ["B", "G", "E", "F", "D"]
+    }
+  }
+}
