@@ -1,0 +1,294 @@
+{
+  "test_name": "KET Test 3 Reading",
+  "total_parts": 3,
+  "parts": [
+    {
+      "part_number": 1,
+      "part_title": "Short Texts",
+      "question_range": "1-6",
+      "instructions": "For each question, choose the correct answer.",
+      "difficulty": "easy",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "text_message",
+          "difficulty": "easy",
+          "context": {
+            "type": "text_message",
+            "sender": "Markus",
+            "recipient": "Jessica",
+            "content": "Jessica, Let's go running this evening. What time do you think you'll be home from work? I'd like to go before it's too dark. Markus"
+          },
+          "question": "What is Markus doing?",
+          "options": {
+            "A": "Markus is letting Jessica know what time he's going running tonight.",
+            "B": "Markus is asking Jessica if she has arrived home from work yet.",
+            "C": "Markus is checking if Jessica will be home early enough to go running."
+          }
+        },
+        {
+          "question_number": 2,
+          "question_type": "notice",
+          "difficulty": "easy",
+          "context": {
+            "type": "notice",
+            "title": "City Arts Centre",
+            "content": "Do you belong to our theatre group? Has acting changed your life? Tell us and we'll put your story on our website."
+          },
+          "question": "What does the Arts Centre want to do?",
+          "options": {
+            "A": "start a new theatre group",
+            "B": "share members' experiences online",
+            "C": "find out what people think of their website"
+          }
+        },
+        {
+          "question_number": 3,
+          "question_type": "text_message",
+          "difficulty": "easy",
+          "context": {
+            "type": "text_message",
+            "sender": "Glenn",
+            "recipient": "Marcia",
+            "content": "Marcia, Sorry to hear you're not very well. Do you need me to get you anything at the shops? Maybe some medicine or fruit? Glenn"
+          },
+          "question": "Why has Glenn sent Marcia this message?",
+          "options": {
+            "A": "to make sure she has taken her medicine",
+            "B": "to ask if she is feeling better",
+            "C": "to find out how he can help"
+          }
+        },
+        {
+          "question_number": 4,
+          "question_type": "email",
+          "difficulty": "medium",
+          "context": {
+            "type": "email",
+            "to": "Harry",
+            "from": "Ollie",
+            "content": "My tennis club on Saturday was really good fun. Why don't you become a member too? You'll love it."
+          },
+          "question": "Ollie has emailed Harry",
+          "options": {
+            "A": "to see if he wants to join the tennis club.",
+            "B": "to ask him for his opinion of the tennis club.",
+            "C": "to find out which tennis club he belongs to."
+          }
+        },
+        {
+          "question_number": 5,
+          "question_type": "notice",
+          "difficulty": "easy",
+          "context": {
+            "type": "notice",
+            "title": "Fun quiz competition",
+            "details": [
+              "22nd March 9 p.m.",
+              "£10 to enter",
+              "Book soon, almost full!",
+              "Cash prizes"
+            ]
+          },
+          "question": "What does the notice say?",
+          "options": {
+            "A": "Hurry if you would like to take part in the quiz.",
+            "B": "The winner of the quiz will get a prize of £10.",
+            "C": "The quiz will finish by 9 p.m. on 22nd March."
+          }
+        },
+        {
+          "question_number": 6,
+          "question_type": "text_message",
+          "difficulty": "medium",
+          "context": {
+            "type": "text_message",
+            "sender": "Mark",
+            "recipient": "Stefan",
+            "content": "Stefan, I've checked online and there's a problem with the buses. Mum's driving me to school. Shall we pick you up on the way? Mark"
+          },
+          "question": "Mark has texted Stefan",
+          "options": {
+            "A": "to tell him to look online.",
+            "B": "to ask about the traffic.",
+            "C": "to offer him a lift."
+          }
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "part_title": "Matching - Three Great Campsites",
+      "question_range": "7-13",
+      "instructions": "For each question, choose the correct answer (A, B, or C).",
+      "difficulty": "medium",
+      "context": {
+        "title": "Three great campsites to visit",
+        "campsites": [
+          {
+            "name": "Hillside",
+            "description": "This campsite is quite near a main road, so it's easy to find. You can camp there anytime you like, even in winter, which is why most of the things to do are inside – the pool, the games room and the café. Families will enjoy it here, as the pool is very safe and there's a lovely playground. It's also very quiet at night – there's no disco or noisy groups of campers. The staff are good, but they should try to be more friendly."
+          },
+          {
+            "name": "Green Farm",
+            "description": "You can easily get lost on the way to Green Farm if you don't know where you're going. There are lots of activities for adults and teenagers to do on the campsite, including a golf course and a lake where you can go fishing and sailing. If you're interested in surfing, you should probably choose a different campsite, as Green Farm is quite a long way from the sea. If you need to buy food, there's a small supermarket next to the office."
+          },
+          {
+            "name": "Castletown",
+            "description": "Castletown is right next to a village, and just a short walk from a beach. It's open from April to October. It's probably not the best place for older people or young children, as there's a disco in the village that plays loud music until quite late. The shops in the village are very useful, as there aren't any on the campsite. Campsite staff can help you with any problems or questions, and are always smiling and chatting with visitors."
+          }
+        ]
+      },
+      "questions": [
+        {
+          "question_number": 7,
+          "difficulty": "easy",
+          "question": "Which campsite is good for people who enjoy outdoor sports?",
+          "options": {
+            "A": "Hillside",
+            "B": "Green Farm",
+            "C": "Castletown"
+          }
+        },
+        {
+          "question_number": 8,
+          "difficulty": "easy",
+          "question": "Which campsite is near the sea?",
+          "options": {
+            "A": "Hillside",
+            "B": "Green Farm",
+            "C": "Castletown"
+          }
+        },
+        {
+          "question_number": 9,
+          "difficulty": "easy",
+          "question": "Which campsite has its own shop?",
+          "options": {
+            "A": "Hillside",
+            "B": "Green Farm",
+            "C": "Castletown"
+          }
+        },
+        {
+          "question_number": 10,
+          "difficulty": "medium",
+          "question": "Which campsite can be difficult to find?",
+          "options": {
+            "A": "Hillside",
+            "B": "Green Farm",
+            "C": "Castletown"
+          }
+        },
+        {
+          "question_number": 11,
+          "difficulty": "easy",
+          "question": "Which campsite has friendly staff?",
+          "options": {
+            "A": "Hillside",
+            "B": "Green Farm",
+            "C": "Castletown"
+          }
+        },
+        {
+          "question_number": 12,
+          "difficulty": "medium",
+          "question": "Which campsite is good for people with young children?",
+          "options": {
+            "A": "Hillside",
+            "B": "Green Farm",
+            "C": "Castletown"
+          }
+        },
+        {
+          "question_number": 13,
+          "difficulty": "medium",
+          "question": "Which campsite can be noisy at night?",
+          "options": {
+            "A": "Hillside",
+            "B": "Green Farm",
+            "C": "Castletown"
+          }
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "part_title": "Reading Comprehension - An Exciting Hobby",
+      "question_range": "14-18",
+      "instructions": "For each question, choose the correct answer.",
+      "difficulty": "medium",
+      "context": {
+        "type": "article",
+        "title": "An exciting hobby",
+        "subtitle": "Tanya Phillips explains why she's crazy about motorbikes.",
+        "content": [
+          "I started riding a motorbike when I was 18. I was living in Edinburgh at the time, and I was using the bus to get to work, which I hated. I thought about learning to drive, but cars are expensive, so I bought a motorbike. I was the first of my friends to get one.",
+          "Over the next 5 years, I only used my motorbike in the city. Then a friend invited me on a motorbike ride through the Australian desert. It was amazing, and when I got home, I bought an adventure motorbike and started riding in wild places like forests in my free time.",
+          "Before any big ride, I make sure I know exactly where I'm going. I don't like asking for help, so I take maps and check the weather. Then when I'm riding, I can just forget about everything except me and the bike. That's what I like best.",
+          "I'm not afraid of riding in unusual places. I went to Iceland in the middle of winter. It was dark most of the day, so I had to be really careful and stay on the roads. I'd like to go again in summer when there's more light and then I can go on the smaller paths.",
+          "This year, I did my first 24-hour adventure motorbike race – across the African desert. It was really difficult, and when I finished all I wanted to do was sleep. But then I found out I was the winner – I couldn't believe it! I can't wait to enter next year's race."
+        ]
+      },
+      "questions": [
+        {
+          "question_number": 14,
+          "difficulty": "easy",
+          "question": "Tanya first began riding a motorbike because",
+          "options": {
+            "A": "she didn't like driving a car in Edinburgh.",
+            "B": "her friends told her it was a good idea.",
+            "C": "she wanted a better way to travel to her job."
+          }
+        },
+        {
+          "question_number": 15,
+          "difficulty": "medium",
+          "question": "When did riding a motorbike become Tanya's hobby?",
+          "options": {
+            "A": "after a trip",
+            "B": "after riding through a forest",
+            "C": "after meeting someone in Australia"
+          }
+        },
+        {
+          "question_number": 16,
+          "difficulty": "medium",
+          "question": "What's Tanya's favourite thing about riding a motorbike?",
+          "options": {
+            "A": "She can spend time alone.",
+            "B": "She can look at the countryside.",
+            "C": "She can stop thinking about other things."
+          }
+        },
+        {
+          "question_number": 17,
+          "difficulty": "medium",
+          "question": "If Tanya goes to Iceland again,",
+          "options": {
+            "A": "she'll go to another part of the country.",
+            "B": "she'll go at a different time of year.",
+            "C": "she'll spend more time there."
+          }
+        },
+        {
+          "question_number": 18,
+          "difficulty": "easy",
+          "question": "After her first motorbike race, Tanya was surprised by",
+          "options": {
+            "A": "how well she did.",
+            "B": "how tired she felt.",
+            "C": "how difficult the race was."
+          }
+        }
+      ]
+    }
+  ],
+  "difficulty_summary": {
+    "easy": 11,
+    "medium": 7,
+    "hard": 0
+  },
+  "total_questions": 18,
+  "note": "Reading Part 4 and Part 5 were not found in the provided images. The images contained: Part 1 (Questions 1-6), Part 2 (Questions 7-13), and Part 3 (Questions 14-18). Image 3 contained Listening Part 1 instead of Reading content."
+}
