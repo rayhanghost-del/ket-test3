@@ -1,0 +1,343 @@
+{
+  "test_name": "KET Test 3 Listening",
+  "total_parts": 5,
+  "total_questions": 25,
+  "parts": [
+    {
+      "part_number": 1,
+      "part_title": "Multiple Choice - Short Conversations",
+      "question_range": "1-5",
+      "instructions": "For each question, choose the correct answer (A, B, or C). You will hear five short conversations.",
+      "difficulty": "easy",
+      "note": "Content not available in provided images. This part typically contains 5 short conversations with one question each.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "difficulty": "easy",
+          "context": "Content not available in provided images",
+          "question": "Question 1 - Content not available",
+          "options": {
+            "A": "Option A - Not available",
+            "B": "Option B - Not available",
+            "C": "Option C - Not available"
+          }
+        },
+        {
+          "question_number": 2,
+          "question_type": "multiple_choice",
+          "difficulty": "easy",
+          "context": "Content not available in provided images",
+          "question": "Question 2 - Content not available",
+          "options": {
+            "A": "Option A - Not available",
+            "B": "Option B - Not available",
+            "C": "Option C - Not available"
+          }
+        },
+        {
+          "question_number": 3,
+          "question_type": "multiple_choice",
+          "difficulty": "easy",
+          "context": "Content not available in provided images",
+          "question": "Question 3 - Content not available",
+          "options": {
+            "A": "Option A - Not available",
+            "B": "Option B - Not available",
+            "C": "Option C - Not available"
+          }
+        },
+        {
+          "question_number": 4,
+          "question_type": "multiple_choice",
+          "difficulty": "easy",
+          "context": "Content not available in provided images",
+          "question": "Question 4 - Content not available",
+          "options": {
+            "A": "Option A - Not available",
+            "B": "Option B - Not available",
+            "C": "Option C - Not available"
+          }
+        },
+        {
+          "question_number": 5,
+          "question_type": "multiple_choice",
+          "difficulty": "easy",
+          "context": "Content not available in provided images",
+          "question": "Question 5 - Content not available",
+          "options": {
+            "A": "Option A - Not available",
+            "B": "Option B - Not available",
+            "C": "Option C - Not available"
+          }
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "part_title": "Note Completion - Tom's Birthday Party",
+      "question_range": "6-10",
+      "instructions": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time.",
+      "difficulty": "medium",
+      "context": {
+        "type": "message",
+        "description": "You will hear Maria leaving a message for Bill with details of Tom's birthday party.",
+        "form_title": "Tom's birthday party"
+      },
+      "questions": [
+        {
+          "question_number": 6,
+          "question_type": "gap_fill",
+          "difficulty": "easy",
+          "field": "Time guests arrive",
+          "answer_format": "time",
+          "hint": "... p.m."
+        },
+        {
+          "question_number": 7,
+          "question_type": "gap_fill",
+          "difficulty": "easy",
+          "field": "Address",
+          "answer_format": "street_name",
+          "hint": "26 ... Road"
+        },
+        {
+          "question_number": 8,
+          "question_type": "gap_fill",
+          "difficulty": "medium",
+          "field": "Food",
+          "answer_format": "food_item",
+          "hint": "... and cake"
+        },
+        {
+          "question_number": 9,
+          "question_type": "gap_fill",
+          "difficulty": "medium",
+          "field": "Type of music",
+          "answer_format": "music_genre",
+          "hint": "One word"
+        },
+        {
+          "question_number": 10,
+          "question_type": "gap_fill",
+          "difficulty": "medium",
+          "field": "Maria's phone number",
+          "answer_format": "phone_number",
+          "hint": "Number"
+        }
+      ]
+    },
+    {
+      "part_number": 3,
+      "part_title": "Multiple Choice - Andy and Sara's Walk",
+      "question_range": "11-15",
+      "instructions": "For each question, choose the correct answer.",
+      "difficulty": "medium",
+      "context": {
+        "type": "conversation",
+        "description": "You will hear Andy talking to his friend Sara about a walk."
+      },
+      "questions": [
+        {
+          "question_number": 11,
+          "question_type": "multiple_choice",
+          "difficulty": "easy",
+          "question": "Where do they agree to meet?",
+          "options": {
+            "A": "at a car park",
+            "B": "at a playground",
+            "C": "at a bus stop"
+          }
+        },
+        {
+          "question_number": 12,
+          "question_type": "multiple_choice",
+          "difficulty": "medium",
+          "question": "What does Andy say the weather will be like for the walk?",
+          "options": {
+            "A": "sunny",
+            "B": "windy",
+            "C": "rainy"
+          }
+        },
+        {
+          "question_number": 13,
+          "question_type": "multiple_choice",
+          "difficulty": "medium",
+          "question": "What will Sara bring?",
+          "options": {
+            "A": "a map",
+            "B": "a backpack",
+            "C": "a drink"
+          }
+        },
+        {
+          "question_number": 14,
+          "question_type": "multiple_choice",
+          "difficulty": "medium",
+          "question": "What does Andy think about the Bridge Café?",
+          "options": {
+            "A": "The prices are low.",
+            "B": "Its food is good.",
+            "C": "It's easy to get to."
+          }
+        },
+        {
+          "question_number": 15,
+          "question_type": "multiple_choice",
+          "difficulty": "medium",
+          "question": "How does Sara feel about going on the walk?",
+          "options": {
+            "A": "pleased to get lots of exercise",
+            "B": "interested to see the lovely views",
+            "C": "happy to spend time with her friend"
+          }
+        }
+      ]
+    },
+    {
+      "part_number": 4,
+      "part_title": "Multiple Choice - Short Monologues/Conversations",
+      "question_range": "16-20",
+      "instructions": "For each question, choose the correct answer.",
+      "difficulty": "medium",
+      "questions": [
+        {
+          "question_number": 16,
+          "question_type": "multiple_choice",
+          "difficulty": "medium",
+          "context": "You will hear two friends talking about exercise.",
+          "question": "What do they agree?",
+          "options": {
+            "A": "Running's hard.",
+            "B": "Walking's boring.",
+            "C": "Cycling's dangerous."
+          }
+        },
+        {
+          "question_number": 17,
+          "question_type": "multiple_choice",
+          "difficulty": "medium",
+          "context": "You will hear a woman talking about jobs.",
+          "question": "What did she want to be when she was younger?",
+          "options": {
+            "A": "an artist",
+            "B": "a journalist",
+            "C": "a cook"
+          }
+        },
+        {
+          "question_number": 18,
+          "question_type": "multiple_choice",
+          "difficulty": "medium",
+          "context": "You will hear two friends talking about going out.",
+          "question": "Where do they agree to go?",
+          "options": {
+            "A": "to a concert",
+            "B": "to an exhibition",
+            "C": "to a film"
+          }
+        },
+        {
+          "question_number": 19,
+          "question_type": "multiple_choice",
+          "difficulty": "medium",
+          "context": "You will hear a woman talking to her friend about finding a new job.",
+          "question": "Why does the woman want the job?",
+          "options": {
+            "A": "The work is interesting.",
+            "B": "The people are nice.",
+            "C": "The office is near her home."
+          }
+        },
+        {
+          "question_number": 20,
+          "question_type": "multiple_choice",
+          "difficulty": "medium",
+          "context": "You will hear a woman talking to her brother on the phone.",
+          "question": "Why is the woman happy?",
+          "options": {
+            "A": "She met an old friend.",
+            "B": "She got an exciting job.",
+            "C": "She found a new place to live."
+          }
+        }
+      ]
+    },
+    {
+      "part_number": 5,
+      "part_title": "Matching - Furniture for New Home",
+      "question_range": "21-25",
+      "instructions": "For each question, choose the correct answer. You will hear a husband and wife talking about the furniture they need for their new home. What do they need for each room?",
+      "difficulty": "medium",
+      "context": {
+        "type": "matching",
+        "description": "You will hear a husband and wife talking about the furniture they need for their new home. What do they need for each room?",
+        "example": {
+          "room": "dining room",
+          "answer": "A"
+        },
+        "furniture_options": {
+          "A": "armchair",
+          "B": "bookcase",
+          "C": "cupboard",
+          "D": "desk",
+          "E": "lamp",
+          "F": "mirror",
+          "G": "picture",
+          "H": "shelf"
+        }
+      },
+      "questions": [
+        {
+          "question_number": 21,
+          "question_type": "matching",
+          "difficulty": "medium",
+          "room": "kitchen"
+        },
+        {
+          "question_number": 22,
+          "question_type": "matching",
+          "difficulty": "medium",
+          "room": "living room"
+        },
+        {
+          "question_number": 23,
+          "question_type": "matching",
+          "difficulty": "medium",
+          "room": "bedroom"
+        },
+        {
+          "question_number": 24,
+          "question_type": "matching",
+          "difficulty": "medium",
+          "room": "bathroom"
+        },
+        {
+          "question_number": 25,
+          "question_type": "matching",
+          "difficulty": "medium",
+          "room": "garage"
+        }
+      ]
+    }
+  ],
+  "difficulty_summary": {
+    "easy": 6,
+    "medium": 19,
+    "hard": 0
+  },
+  "notes": [
+    "Part 1 (Questions 1-5) content was not available in the provided images.",
+    "Part 2 is a note completion task about Tom's birthday party details.",
+    "Part 3 is a multiple choice conversation between Andy and Sara about a walk.",
+    "Part 4 contains 5 separate short listening texts with one question each.",
+    "Part 5 is a matching task about furniture needed for different rooms in a new home."
+  ],
+  "source_images": [
+    "7b2285ce-a2d0-430d-ba12-7bd4fc9b4ed1.jpg (Part 2 & 3)",
+    "94f75c6b-4894-4405-805a-f35a054e1a11.jpg (Part 4 & 5)",
+    "b7fa75bb-df06-43c7-a6f9-0c94dc1f4117.jpg (Reading Part 4 & 5)",
+    "d827e4df-b21b-45f6-976f-251dc6c67e7d.jpg (Reading Part 6 & 7)"
+  ]
+}
