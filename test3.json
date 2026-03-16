@@ -1,0 +1,527 @@
+{
+  "test_id": "KET_Test_3",
+  "test_name": "KET Test 3",
+  "sections": {
+    "reading_writing": {
+      "part1": {
+        "title": "Part 1: Short Messages",
+        "instructions": "For each question, choose the correct answer.",
+        "questions": [
+          {
+            "id": 1,
+            "type": "multiple_choice",
+            "question": "Markus is letting Jessica know what time he's going running tonight.",
+            "context": "Jessica, Let's go running this evening. What time do you think you'll be home from work? I'd like to go before it's too dark. Markus",
+            "options": [
+              {"A": "Markus is letting Jessica know what time he's going running tonight."},
+              {"B": "Markus is asking Jessica if she has arrived home from work yet."},
+              {"C": "Markus is checking if Jessica will be home early enough to go running."}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 2,
+            "type": "multiple_choice",
+            "question": "What does the Arts Centre want to do?",
+            "context": "City Arts Centre: Do you belong to our theatre group? Has acting changed your life? Tell us and we'll put your story on our website.",
+            "options": [
+              {"A": "start a new theatre group"},
+              {"B": "share members' experiences online"},
+              {"C": "find out what people think of their website"}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 3,
+            "type": "multiple_choice",
+            "question": "Why has Glenn sent Marcia this message?",
+            "context": "Marcia, Sorry to hear you're not very well. Do you need me to get you anything at the shops? Maybe some medicine or fruit? Glenn",
+            "options": [
+              {"A": "to make sure she has taken her medicine"},
+              {"B": "to ask if she is feeling better"},
+              {"C": "to find out how he can help"}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 4,
+            "type": "multiple_choice",
+            "question": "Ollie has emailed Harry",
+            "context": "To: Harry, From: Ollie. My tennis club on Saturday was really good fun. Why don't you become a member too? You'll love it.",
+            "options": [
+              {"A": "to see if he wants to join the tennis club"},
+              {"B": "to ask him for his opinion of the tennis club"},
+              {"C": "to find out which tennis club he belongs to"}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 5,
+            "type": "multiple_choice",
+            "question": "Fun quiz competition - 22nd March 9 p.m. - £10 to enter - Book soon, almost full! - Cash prizes",
+            "options": [
+              {"A": "Hurry if you would like to take part in the quiz."},
+              {"B": "The winner of the quiz will get a prize of £10."},
+              {"C": "The quiz will finish by 9 p.m. on 22nd March."}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 6,
+            "type": "multiple_choice",
+            "question": "Mark has texted Stefan",
+            "context": "Stefan, I've checked online and there's a problem with the buses. Mum's driving me to school. Shall we pick you up on the way? Mark",
+            "options": [
+              {"A": "to tell him to look online"},
+              {"B": "to ask about the traffic"},
+              {"C": "to offer him a lift"}
+            ],
+            "difficulty": "easy"
+          }
+        ]
+      },
+      "part2": {
+        "title": "Part 2: Information Matching",
+        "instructions": "For each question, choose the correct answer.",
+        "reading_text": "Three great campsites to visit\n\nHillside: This campsite is quite near a main road, so it's easy to find. You can camp there anytime you like, even in winter, which is why most of the things to do are inside – the pool, the games room and the café. Families will enjoy it here, as the pool is very safe and there's a lovely playground. It's also very quiet at night – there's no disco or noisy groups of campers. The staff are good, but they should try to be more friendly.\n\nGreen Farm: You can easily get lost on the way to Green Farm if you don't know where you're going. There are lots of activities for adults and teenagers to do on the campsite, including a golf course and a lake where you can go fishing and sailing. If you're interested in surfing, you should probably choose a different campsite, as Green Farm is quite a long way from the sea. If you need to buy food, there's a small supermarket next to the office.\n\nCastletown: Castletown is right next to a village, and just a short walk from a beach. It's open from April to October. It's probably not the best place for older people or young children, as there's a disco in the village that plays loud music until quite late. The shops in the village are very useful, as there aren't any on the campsite. Campsite staff can help you with any problems or questions, and are always smiling and chatting with visitors.",
+        "questions": [
+          {
+            "id": 7,
+            "question": "Which campsite is good for people who enjoy outdoor sports?",
+            "options": [{"A": "Hillside"}, {"B": "Green Farm"}, {"C": "Castletown"}],
+            "difficulty": "medium"
+          },
+          {
+            "id": 8,
+            "question": "Which campsite is near the sea?",
+            "options": [{"A": "Hillside"}, {"B": "Green Farm"}, {"C": "Castletown"}],
+            "difficulty": "medium"
+          },
+          {
+            "id": 9,
+            "question": "Which campsite has its own shop?",
+            "options": [{"A": "Hillside"}, {"B": "Green Farm"}, {"C": "Castletown"}],
+            "difficulty": "medium"
+          },
+          {
+            "id": 10,
+            "question": "Which campsite can be difficult to find?",
+            "options": [{"A": "Hillside"}, {"B": "Green Farm"}, {"C": "Castletown"}],
+            "difficulty": "easy"
+          },
+          {
+            "id": 11,
+            "question": "Which campsite has friendly staff?",
+            "options": [{"A": "Hillside"}, {"B": "Green Farm"}, {"C": "Castletown"}],
+            "difficulty": "easy"
+          },
+          {
+            "id": 12,
+            "question": "Which campsite is good for people with young children?",
+            "options": [{"A": "Hillside"}, {"B": "Green Farm"}, {"C": "Castletown"}],
+            "difficulty": "medium"
+          },
+          {
+            "id": 13,
+            "question": "Which campsite can be noisy at night?",
+            "options": [{"A": "Hillside"}, {"B": "Green Farm"}, {"C": "Castletown"}],
+            "difficulty": "easy"
+          }
+        ]
+      },
+      "part3": {
+        "title": "Part 3: Reading Comprehension",
+        "instructions": "For each question, choose the correct answer.",
+        "reading_text": "An exciting hobby\n\nTanya Phillips explains why she's crazy about motorbikes.\n\nI started riding a motorbike when I was 18. I was living in Edinburgh at the time, and I was using the bus to get to work, which I hated. I thought about learning to drive, but cars are expensive, so I bought a motorbike. I was the first of my friends to get one.\n\nOver the next 5 years, I only used my motorbike in the city. Then a friend invited me on a motorbike ride through the Australian desert. It was amazing, and when I got home, I bought an adventure motorbike and started riding in wild places like forests in my free time.\n\nBefore any big ride, I make sure I know exactly where I'm going. I don't like asking for help, so I take maps and check the weather. Then when I'm riding, I can just forget about everything except me and the bike. That's what I like best.\n\nI'm not afraid of riding in unusual places. I went to Iceland in the middle of winter. It was dark most of the day, so I had to be really careful and stay on the roads. I'd like to go again in summer when there's more light and then I can go on the smaller paths.\n\nThis year, I did my first 24-hour adventure motorbike race – across the African desert. It was really difficult, and when I finished all I wanted to do was sleep. But then I found out I was the winner – I couldn't believe it! I can't wait to enter next year's race.",
+        "questions": [
+          {
+            "id": 14,
+            "question": "Tanya first began riding a motorbike because",
+            "options": [
+              {"A": "she didn't like driving a car in Edinburgh."},
+              {"B": "her friends told her it was a good idea."},
+              {"C": "she wanted a better way to travel to her job."}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 15,
+            "question": "When did riding a motorbike become Tanya's hobby?",
+            "options": [
+              {"A": "after a trip"},
+              {"B": "after riding through a forest"},
+              {"C": "after meeting someone in Australia"}
+            ],
+            "difficulty": "hard"
+          },
+          {
+            "id": 16,
+            "question": "What's Tanya's favourite thing about riding a motorbike?",
+            "options": [
+              {"A": "She can spend time alone."},
+              {"B": "She can look at the countryside."},
+              {"C": "She can stop thinking about other things."}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 17,
+            "question": "If Tanya goes to Iceland again,",
+            "options": [
+              {"A": "she'll go to another part of the country."},
+              {"B": "she'll go at a different time of year."},
+              {"C": "she'll spend more time there."}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 18,
+            "question": "After her first motorbike race, Tanya was surprised by",
+            "options": [
+              {"A": "how well she did."},
+              {"B": "how tired she felt."},
+              {"C": "how difficult the race was."}
+            ],
+            "difficulty": "medium"
+          }
+        ]
+      },
+      "part4": {
+        "title": "Part 4: Cloze Test",
+        "instructions": "For each question, choose the correct answer.",
+        "reading_text": "David Bowie\n\nThe English pop star David Bowie was born David Robert Jones on 8th January, 1947. He was (19) ______ in music from an early age and began playing in bands when he was still a teenager. When he was 18, he changed his name to David Bowie as there was another musician in the US (20) ______ was also called David Jones.\n\nDavid Bowie's song 'Space Oddity' was his first big hit, and it was popular around the world. He (21) ______ later that he got the (22) ______ for the song while he was watching a film called 2001: A Space Odyssey.\n\nThrough his career, David Bowie often changed the (23) ______ he looked and the kind of music he played. His final album was called 'Blackstar' and it became (24) ______ to his fans on his 69th birthday. This was just two days before he died on 10th January, 2016.",
+        "questions": [
+          {
+            "id": 19,
+            "question": "He was (19) ______ in music from an early age",
+            "options": [{"A": "interested"}, {"B": "pleased"}, {"C": "special"}],
+            "difficulty": "easy"
+          },
+          {
+            "id": 20,
+            "question": "there was another musician in the US (20) ______ was also called David Jones",
+            "options": [{"A": "which"}, {"B": "where"}, {"C": "who"}],
+            "difficulty": "medium"
+          },
+          {
+            "id": 21,
+            "question": "He (21) ______ later that he got the",
+            "options": [{"A": "told"}, {"B": "explained"}, {"C": "talked"}],
+            "difficulty": "medium"
+          },
+          {
+            "id": 22,
+            "question": "he got the (22) ______ for the song",
+            "options": [{"A": "idea"}, {"B": "experience"}, {"C": "reason"}],
+            "difficulty": "medium"
+          },
+          {
+            "id": 23,
+            "question": "changed the (23) ______ he looked",
+            "options": [{"A": "thing"}, {"B": "way"}, {"C": "type"}],
+            "difficulty": "medium"
+          },
+          {
+            "id": 24,
+            "question": "it became (24) ______ to his fans",
+            "options": [{"A": "able"}, {"B": "possible"}, {"C": "available"}],
+            "difficulty": "medium"
+          }
+        ]
+      },
+      "part5": {
+        "title": "Part 5: Gap Fill",
+        "instructions": "For each question, write the correct answer. Write ONE word for each gap.",
+        "context": "Email from Ellie to Leah",
+        "reading_text": "I'm really pleased you're coming (0) ______ stay at my house next week. We haven't seen each other for such (25) ______ long time!\n\n(26) ______ are lots of things to do (27) ______ my town, so I'm sure we'll have lots of fun. We can visit the museum and the theatre. And how about going shopping too? Our new shopping centre has some really great shops, and they're cheaper (28) ______ the ones in the city.\n\nI'll meet you at the airport on Saturday. (29) ______ time does your flight arrive? Please let (30) ______ know and I'll make a plan. I can't wait to see you again!",
+        "questions": [
+          {
+            "id": 25,
+            "question": "(25) for such ______ long time",
+            "answer_type": "single_word",
+            "difficulty": "easy"
+          },
+          {
+            "id": 26,
+            "question": "(26) ______ are lots of things",
+            "answer_type": "single_word",
+            "difficulty": "easy"
+          },
+          {
+            "id": 27,
+            "question": "(27) to do ______ my town",
+            "answer_type": "single_word",
+            "difficulty": "easy"
+          },
+          {
+            "id": 28,
+            "question": "(28) cheaper ______ the ones",
+            "answer_type": "single_word",
+            "difficulty": "easy"
+          },
+          {
+            "id": 29,
+            "question": "(29) ______ time does your flight arrive",
+            "answer_type": "single_word",
+            "difficulty": "easy"
+          },
+          {
+            "id": 30,
+            "question": "(30) Please let ______ know",
+            "answer_type": "single_word",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      "part6": {
+        "title": "Part 6: Email Writing",
+        "instructions": "Read the email from your English friend, Jan. Write an email to Jan and answer the questions. Write 25 words or more.",
+        "prompt": "From: Jan\nTo: [You]\n\nThanks for telling me about the laptop you're selling. Why are you selling it? How much money do you want for it? When can I collect it from you?\n\nJan",
+        "word_count": "25 words or more",
+        "difficulty": "medium"
+      },
+      "part7": {
+        "title": "Part 7: Story Writing",
+        "instructions": "Look at the three pictures. Write the story shown in the pictures. Write 35 words or more.",
+        "description": "Three pictures showing: 1) Two women cooking together in a kitchen, 2) The two women sitting at a table eating and talking, 3) The two women washing dishes together at the sink",
+        "word_count": "35 words or more",
+        "difficulty": "medium"
+      }
+    },
+    "listening": {
+      "part1": {
+        "title": "Part 1: Picture Multiple Choice",
+        "instructions": "For each question, choose the correct answer.",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Where will the friends meet tonight?",
+            "image_options": [
+              {"A": "Café/Shop front"},
+              {"B": "Train station"},
+              {"C": "Sports centre"}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 2,
+            "question": "What did Sally eat at the restaurant?",
+            "image_options": [
+              {"A": "Pizza"},
+              {"B": "Spaghetti/Noodles"},
+              {"C": "Salad"}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 3,
+            "question": "What job is Tom's sister doing this summer?",
+            "image_options": [
+              {"A": "Police officer/security"},
+              {"B": "Receptionist/hotel worker"},
+              {"C": "Waitress/restaurant server"}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 4,
+            "question": "What exercise is the woman going to do now?",
+            "image_options": [
+              {"A": "Swimming"},
+              {"B": "Running"},
+              {"C": "Cycling/Gym bike"}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 5,
+            "question": "What's Philip wearing?",
+            "image_options": [
+              {"A": "Casual (t-shirt and jeans)"},
+              {"B": "Formal suit"},
+              {"C": "T-shirt and shorts"}
+            ],
+            "difficulty": "easy"
+          }
+        ]
+      },
+      "part2": {
+        "title": "Part 2: Note Completion",
+        "instructions": "For each question, write the correct answer in the gap. Write one word or a number or a date or a time.",
+        "context": "You will hear Maria leaving a message for Bill with details of Tom's birthday party.",
+        "questions": [
+          {
+            "id": 6,
+            "question": "Time guests arrive: (6) ______ p.m.",
+            "answer_type": "time",
+            "difficulty": "easy"
+          },
+          {
+            "id": 7,
+            "question": "Address: (7) 26 ______ Road",
+            "answer_type": "street_name",
+            "difficulty": "medium"
+          },
+          {
+            "id": 8,
+            "question": "Food: (8) ______ and cake",
+            "answer_type": "food_item",
+            "difficulty": "medium"
+          },
+          {
+            "id": 9,
+            "question": "Type of music: (9) ______",
+            "answer_type": "music_genre",
+            "difficulty": "medium"
+          },
+          {
+            "id": 10,
+            "question": "Maria's phone number: (10) ______",
+            "answer_type": "phone_number",
+            "difficulty": "easy"
+          }
+        ]
+      },
+      "part3": {
+        "title": "Part 3: Multiple Choice",
+        "instructions": "For each question, choose the correct answer.",
+        "context": "You will hear Andy talking to his friend Sara about a walk.",
+        "questions": [
+          {
+            "id": 11,
+            "question": "Where do they agree to meet?",
+            "options": [
+              {"A": "at a car park"},
+              {"B": "at a playground"},
+              {"C": "at a bus stop"}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 12,
+            "question": "What does Andy say the weather will be like for the walk?",
+            "options": [
+              {"A": "sunny"},
+              {"B": "windy"},
+              {"C": "rainy"}
+            ],
+            "difficulty": "easy"
+          },
+          {
+            "id": 13,
+            "question": "What will Sara bring?",
+            "options": [
+              {"A": "a map"},
+              {"B": "a backpack"},
+              {"C": "a drink"}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 14,
+            "question": "What does Andy think about the Bridge Café?",
+            "options": [
+              {"A": "The prices are low."},
+              {"B": "Its food is good."},
+              {"C": "It's easy to get to."}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 15,
+            "question": "How does Sara feel about going on the walk?",
+            "options": [
+              {"A": "pleased to get lots of exercise"},
+              {"B": "interested to see the lovely views"},
+              {"C": "happy to spend time with her friend"}
+            ],
+            "difficulty": "hard"
+          }
+        ]
+      },
+      "part4": {
+        "title": "Part 4: Multiple Choice Short Dialogues",
+        "instructions": "For each question, choose the correct answer.",
+        "questions": [
+          {
+            "id": 16,
+            "context": "You will hear two friends talking about exercise.",
+            "question": "What do they agree?",
+            "options": [
+              {"A": "Running's hard."},
+              {"B": "Walking's boring."},
+              {"C": "Cycling's dangerous."}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 17,
+            "context": "You will hear a woman talking about jobs.",
+            "question": "What did she want to be when she was younger?",
+            "options": [
+              {"A": "an artist"},
+              {"B": "a journalist"},
+              {"C": "a cook"}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 18,
+            "context": "You will hear two friends talking about going out.",
+            "question": "Where do they agree to go?",
+            "options": [
+              {"A": "to a concert"},
+              {"B": "to an exhibition"},
+              {"C": "to a film"}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 19,
+            "context": "You will hear a woman talking to her friend about finding a new job.",
+            "question": "Why does the woman want the job?",
+            "options": [
+              {"A": "The work is interesting."},
+              {"B": "The people are nice."},
+              {"C": "The office is near her home."}
+            ],
+            "difficulty": "medium"
+          },
+          {
+            "id": 20,
+            "context": "You will hear a woman talking to her brother on the phone.",
+            "question": "Why is the woman happy?",
+            "options": [
+              {"A": "She met an old friend."},
+              {"B": "She got an exciting job."},
+              {"C": "She found a new place to live."}
+            ],
+            "difficulty": "medium"
+          }
+        ]
+      },
+      "part5": {
+        "title": "Part 5: Matching",
+        "instructions": "You will hear a husband and wife talking about the furniture they need for their new home. What do they need for each room?",
+        "example": {"room": "dining room", "answer": "A"},
+        "furniture_options": [
+          {"A": "armchair"},
+          {"B": "bookcase"},
+          {"C": "cupboard"},
+          {"D": "desk"},
+          {"E": "lamp"},
+          {"F": "mirror"},
+          {"G": "picture"},
+          {"H": "shelf"}
+        ],
+        "questions": [
+          {"id": 21, "room": "kitchen", "difficulty": "easy"},
+          {"id": 22, "room": "living room", "difficulty": "easy"},
+          {"id": 23, "room": "bedroom", "difficulty": "easy"},
+          {"id": 24, "room": "bathroom", "difficulty": "easy"},
+          {"id": 25, "room": "garage", "difficulty": "medium"}
+        ]
+      }
+    }
+  }
+}
