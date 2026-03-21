@@ -10,8 +10,8 @@
       "installedAt": 1772477170390
     },
     "self-improving-agent": {
-      "version": "3.0.1",
-      "installedAt": 1773255852297
+      "version": "1.0.11",
+      "installedAt": 1773704125740
     },
     "xiaohongshu-downloader": {
       "version": "1.0.0",
@@ -28,6 +28,10 @@
     "url-reader": {
       "version": "0.1.1",
       "installedAt": 1773309142067
+    },
+    "scrapling-official": {
+      "version": "0.4.2",
+      "installedAt": 1773704327470
     }
   }
 }
