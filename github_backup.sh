@@ -6,7 +6,6 @@ set -e
 WORKSPACE_DIR="/root/.openclaw/workspace"
 BACKUP_DIR="$WORKSPACE_DIR/openclaw-backup"
 BACKUP_LOG="$WORKSPACE_DIR/backup_status_$(date +%Y%m%d_%H%M).md"
-REMOTE_URL="https://${GITHUB_TOKEN}@github.com/rayhanghost-del/openclaw-backup.git"
 
 echo "开始 GitHub 备份任务..."
 echo "时间: $(date)"
@@ -21,7 +20,12 @@ fi
 cd "$BACKUP_DIR"
 
 # 1. 确保 remote 配置正确
-git remote set-url origin "$REMOTE_URL"
+if [ -n "$GITHUB_TOKEN" ]; then
+    REMOTE_URL="https://${GITHUB_TOKEN}@github.com/rayhanghost-del/openclaw-backup.git"
+    git remote set-url origin "$REMOTE_URL"
+else
+    echo "警告: GITHUB_TOKEN 环境变量未设置，使用现有 remote URL"
+fi
 
 # 2. 获取最新变更
 git fetch origin main 2>/dev/null || true

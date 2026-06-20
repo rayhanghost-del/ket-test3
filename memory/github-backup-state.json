@@ -1,10 +1,14 @@
 {
-  "lastBackupTime": "2026-05-24T01:25:00+08:00",
-  "lastCheckTime": "2026-05-24T05:35:00+08:00",
-  "lastCommit": "01ffdfa",
+  "lastBackup": "2026-06-21T01:25:00+08:00",
   "status": "success",
+  "filesChanged": 136,
+  "insertions": 20542,
+  "deletions": 227,
+  "commitHash": "ead1e2b",
+  "lastCheckTime": "2026-06-21T01:25:00+08:00",
   "retryNeeded": false,
   "consecutiveFailures": 0,
-  "nextScheduledBackup": "2026-05-31T01:30:00+08:00",
-  "lastRetryCheck": "2026-05-24T05:35:00+08:00"
+  "nextScheduledBackup": "2026-06-28T01:30:00+08:00",
+  "lastRetryCheck": null,
+  "notes": "备份已成功。本次提交包含 136 个文件变更，涵盖 3 周的 memory logs、self-log 学习笔记、scrapling skill 更新、周报文件及工作区更新。"
 }
